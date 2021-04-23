@@ -5,12 +5,12 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mayankkuthar.mayankkuthar)
 
-<img align="right" src="\coding-freak.gif" />
+<img align="right" src="coding-freak.gif" />
 
 - 💻 Languages : C, C++, Python, html, Javascript...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source Organizations
-- 📫 How to reach me: mayankkuthar@gmail.com
+- 📫 How to reach me: mayank8055neel@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: If it works don't TOUCH it.
 
