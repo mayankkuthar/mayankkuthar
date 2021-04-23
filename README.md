@@ -1,7 +1,7 @@
 ### Hi there, I'm Mayank - aka [mayankkuthar][website] 👋
 
 ## I'm a Student, Artist, Competative programmer, Developer, and Open Source Enthusiast!!
-<img align="right" src="\coding-freak.gif" />
+<img align="right" src="\coding-freak.gif">
 - 💻 Languages : C, C++, Python, html, Javascript...
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source Organizations
