@@ -27,18 +27,22 @@
 
 ### Technologies and Tools:
 
-![](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=?style=plastic&logo=appveyor&logo=Visual-studio-code&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Code-Python-informational?style=?style=plastic&logo=appveyor&logo=python&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=?style=plastic&logo=appveyor&logo=html5&logoColor=white&color=298fdd)
+![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=?style=plastic&logo=appveyor&logo=javascript&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=?style=plastic&logo=appveyor&logo=css3&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Code-Vue-informational?style=?style=plastic&logo=appveyor&logo=vue.js&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=?style=plastic&logo=appveyor&logo=digitalocean&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Cloud-C++-informational?style=?style=plastic&logo=appveyor&logo=cplusplus&logoColor=white&color=298fdd)
-![](https://img.shields.io/badge/Cloud-C-informational?style=?style=plastic&logo=appveyor&logo=c&logoColor=white&color=298fdd)
+![Activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&theme=dracula)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&theme=github)
 <br />
 <br />
 
