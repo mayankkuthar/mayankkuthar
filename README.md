@@ -53,5 +53,5 @@
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
 [instagram]: https://www.instagram.com/mayankkuthar/
 [linkedin]: https://www.linkedin.com/in/mayankkuthar/
-[codechef]: https://www.codechef.com/users/mayankkuthar1
+[codechef]: https://www.codechef.com/users/kutharmayank
 [stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
