@@ -55,3 +55,11 @@
 [linkedin]: https://www.linkedin.com/in/mayankkuthar/
 [codechef]: https://www.codechef.com/users/kutharmayank
 [stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&show_icons=true&locale=en&layout=compact" alt="mayankkuthar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankkuthar&show_icons=true&locale=en" alt="mayankkuthar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkuthar&" alt="vanshika230mayankkuthar" /></p>
