@@ -47,8 +47,6 @@
 <br />
 <br />
 
----
-
 [website]: http://custudyspot.rf.gd/
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
 [instagram]: https://www.instagram.com/mayankkuthar/
