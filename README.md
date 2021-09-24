@@ -1,5 +1,5 @@
 ### Hi there, I'm Mayank - aka [mayankkuthar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
+<br>
 
 ### I'm a Student, Artist, Competative programmer, Developer, and Open Source Enthusiast!!
 
@@ -23,7 +23,7 @@
 [<img align="left" alt="Mayank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mayank | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 
-<br />
+<br>
 
 ### Technologies and Tools:
 
@@ -44,8 +44,8 @@
 
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&theme=dracula)
 
-<br />
-<br />
+<br>
+<br>
 
 [website]: http://custudyspot.rf.gd/
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
@@ -54,10 +54,12 @@
 [codechef]: https://www.codechef.com/users/kutharmayank
 [stopstalk]: https://www.stopstalk.com/user/profile/mayankkuthar
 
+<div align="center">
+  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&show_icons=true&locale=en&layout=compact)
+  
+![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=radical)
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=dark)
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&show_icons=true&locale=en&layout=compact" alt="mayankkuthar" /></p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mayankkuthar&show_icons=true&locale=en" alt="mayankkuthar" /></p>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkuthar&" alt="mayankkuthar" /></p>
+</div>
