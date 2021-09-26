@@ -58,10 +58,10 @@
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&show_icons=true&locale=en&layout=compact)
   
-![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=merko)
+![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=tokyonight)
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=merko)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=tokyonight)
 
 </div>
