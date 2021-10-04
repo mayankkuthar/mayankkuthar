@@ -62,6 +62,6 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=highcontrast)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=radical)
 
 </div>
