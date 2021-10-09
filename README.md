@@ -42,8 +42,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-![Activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&theme=dracula)
-
+![activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&bg_color=000000&color=ccffe9&line=00ff59&point=ff8585&area=true&hide_border=true)
 <br>
 <br>
 
