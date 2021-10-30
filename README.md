@@ -61,6 +61,10 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
+<<<<<<< HEAD
 ![GitHub Streak](http://github-streakk.herokuapp.com?user=mayankkuthar&theme=merko)
+=======
+![GitHub Streak](http://github-streakk.herokuapp.com?user=mayankkuthar&theme=radical)
+>>>>>>> b8761b0b5016d83f8fe0f8bbbc7ab149b077fa50
 
 </div>
