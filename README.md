@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![](https://img.shields.io/badge/Flask-414141?style=for-the-badge&logo=flask&logoColor=white)
 
 ![activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&bg_color=000000&color=ccffe9&line=00ff59&point=ff8585&area=true&hide_border=true)
 <br>
@@ -61,6 +62,6 @@
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=dark)
 
 </div>
