@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source Organizations
 - 📫 How to reach me: mayank8055neel@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: If it works don't TOUCH it.
 
 
