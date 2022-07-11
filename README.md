@@ -1,9 +1,7 @@
-### Hi there, I'm Mayank - aka [mayankkuthar][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Mayank - aka [mayankkuthar][website]
 <br>
 
 ### I'm a Student, Artist, Competative programmer, Developer, and Open Source Enthusiast!!
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mayankkuthar.mayankkuthar)
 
 <img align="right" src="coding-freak.gif" />
 
