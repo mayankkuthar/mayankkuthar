@@ -56,12 +56,12 @@
 
 <div align="center">
   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=highcontrast&show_icons=true&locale=en&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=dracula&show_icons=true&locale=en&layout=compact)
   
 ![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=radical)
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankkuthar&theme=dracula)
 
 </div>
