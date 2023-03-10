@@ -58,7 +58,7 @@
   
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=dracula&show_icons=true&locale=en&layout=compact)
   
-![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=radical)
+![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=tokyonight)
   
 [Themes]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
   
