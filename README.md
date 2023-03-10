@@ -56,7 +56,7 @@
 
 <div align="center">
   
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=dracula&show_icons=true&locale=en&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayankkuthar&theme=merko&show_icons=true&locale=en&layout=compact)
   
 ![Mayank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkuthar&theme=tokyonight)
   
