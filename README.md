@@ -3,7 +3,7 @@
 ### Hi there, I'm Mayank - aka [mayankkuthar][website]
 <br>
 
-### I'm a Student, Artist, Competative programmer, Developer, and Open Source Enthusiast!!
+### I'm a Student, Artist, competitive programmer, Developer, and Open Source Enthusiast!!
 
 <img align="right" src="coding-freak.gif" />
 
@@ -43,9 +43,13 @@
 ![](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![](https://img.shields.io/badge/Flask-414141?style=for-the-badge&logo=flask&logoColor=white)
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=mayankkuthar&bg_color=000000&color=ccffe9&line=00ff59&point=ff8585&area=true&hide_border=true)
-<br>
-<br>
+## My Badge Board
+
+[![@maxprogramming's Holopin board](https://holopin.me/mayankkuthar8)](https://www.holopin.io/@mayankkuthar8)
+
+
+<br />
+<br />
 
 [website]: http://custudyspot.rf.gd/
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
