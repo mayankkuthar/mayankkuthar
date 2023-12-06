@@ -1,6 +1,6 @@
 ### 01101000 01101001
 
-### Hi there, I'm Yamini Kuthar - aka [mayankkuthar][website]
+### Hi there, I'm Mayank Kuthar - aka [mayankkuthar][website]
 <br>
 
 ### I'm a Student, Artist, competitive programmer, Developer, and Open Source Enthusiast!!
