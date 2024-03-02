@@ -51,7 +51,7 @@
 <br />
 <br />
 
-[website]: http://custudyspot.rf.gd/
+[website]: https://mayankkuthar.github.io/CU-StudySpot/index.html
 [youtube]: https://www.youtube.com/channel/UCne3T8OHtU0hBZq28SO1wyQ
 [instagram]: https://www.instagram.com/mayankkuthar/
 [linkedin]: https://www.linkedin.com/in/mayankkuthar/
